@@ -21,7 +21,7 @@ const Home = () => {
           }
           Component={<span></span>}
         />
-        <div className="w-[40%]">This is the image section which need to be added later.  </div>
+        <div className="w-[40%]">This is the image section which need to be added later. again added.  </div>
       </div>
     </div>
   );
